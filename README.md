@@ -54,3 +54,4 @@ zsh+[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
 ###说明
  * PostgreSQL一定要安装9.2以上的，默认用`apt-get install`安装的是9.1
  * `*`表示可选，`*`越多表示难度越大
+ * 将任务放到新建的文件夹里面，命名如：`jianxiaoqi`。目录结构应该为`homework/jianxiaoqi`
