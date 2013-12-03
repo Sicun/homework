@@ -18,7 +18,7 @@
    * 易扩展,如:一行命令`sudo apt-get install postgresql-contrib`就能安装加密扩展
 
 ###如何获得帮助
- 1. 技术问题尽量用英文[Google](https://www.google.com/ncr),注意用空格分词(为什么?)
+ 1. 技术问题[Google]英文关键字(https://www.google.com/ncr),注意用空格分词(为什么?)
  2. 诸如:_什么是良好的编码习惯?_ 这类无固定答案的问题,在[知乎](http://www.zhihu.com/)上搜索或提问
  3. 在[stackoverflow](http://stackoverflow.com/)上搜索
  4. 确保你读过[提问的艺术](http://wiki.woodpecker.org.cn/moin/AskForHelp)
