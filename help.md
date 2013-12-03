@@ -18,9 +18,16 @@
    * 易扩展,如:一行命令`sudo apt-get install postgresql-contrib`就能安装加密扩展
 
 ###如何获得帮助
- 1. 尽量用英文[Google](https://www.google.com/ncr),注意用空格分词(为什么?)
- 2. 在[stackoverflow](http://stackoverflow.com/)上搜索
- 2. 确保你读过[提问的艺术](http://wiki.woodpecker.org.cn/moin/AskForHelp)
- 3. 在[segmentfault](http://segmentfault.com/)上提问
- 4. 在[v2ex](http://v2ex.com/)上提问
+ 1. 技术问题尽量用英文[Google](https://www.google.com/ncr),注意用空格分词(为什么?)
+ 2. 诸如:_什么是良好的编码习惯?_ 这类无固定答案的问题,在[知乎](http://www.zhihu.com/)上搜索或提问
+ 3. 在[stackoverflow](http://stackoverflow.com/)上搜索
+ 4. 确保你读过[提问的艺术](http://wiki.woodpecker.org.cn/moin/AskForHelp)
+ 5. 在[segmentfault](http://segmentfault.com/)上提问
+ 6. 在[v2ex](http://v2ex.com/)上提问
 
+###代码规范
+ 1. 记住:_任何编码风格都是为了保持可读性_
+ 2. 遵循大多数的编码习惯,如:`content`缩写为`cnt`,`index`缩写为`i`或`idx`
+ 3. 和项目成员遵循同一种编码风格
+ 4. 保持一致的编码风格
+ 5. 参考[google编码规范](https://code.google.com/p/google-styleguide/)
