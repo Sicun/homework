@@ -15,6 +15,7 @@
  * __[PostgreSQL-9.2](http://www.postgresql.org/)__
 
 ###推荐
+ * __bpython__
  * __zsh__ + __[oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)__  
  * __[tmux](https://github.com/ThomasAdam/tmux)__     
  * __[sublime text](http://www.sublimetext.com/)__ + __[Package Control](https://sublime.wbond.net/installation)__ + __[SublimePythonIDE](https://github.com/JulianEberius/SublimePythonIDE)__ + __[Vintageous](https://github.com/guillermooo/Vintageous)__ + __HTML-CSS-JS Prettify__  
