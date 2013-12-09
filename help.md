@@ -21,7 +21,7 @@
  1. 技术问题[Google](https://www.google.com/ncr)英文关键字,注意用空格分词(为什么?)
  2. 了解某个概念,如:_什么是快速排序?_ 先[wiki](http://zh.wikipedia.org/zh)后[百度百科](http://baike.baidu.com/)
  3. 诸如:_什么是良好的编码习惯?_ 这类无固定答案的问题,在[知乎](http://www.zhihu.com/)上搜索或提问
- 4. 工程或生产环境问题,如:用mock进行单元测试.搜索[IBM](http://www.ibm.com/developerworks/cn/)
+ 4. 工程或生产环境问题,如:_用mock进行单元测试_.搜索[IBM](http://www.ibm.com/developerworks/cn/)
  5. 在[stackoverflow](http://stackoverflow.com/)上搜索
  6. 确保你读过[提问的艺术](http://wiki.woodpecker.org.cn/moin/AskForHelp)
  7. 在[segmentfault](http://segmentfault.com/)上提问
